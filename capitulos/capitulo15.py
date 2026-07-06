@@ -15,7 +15,7 @@ def mostrar15():
 
     
     with col3:
-        st.audio("audio/mininaT.mp3..mp3")
+        st.audio("audio/mininaT.mp3")
         #st.write(" Nuevamente senti una profunda soledad y una noche que iba a un  evento; le pedi a Maria de Los Ángeles la modista de mi mama que me acompañara, accedió y empezamos a salir porque ella tampoco tenia pareja, era mayor que yo y me decía mi bebe y todos los días me llevaba un panquecito  de chochitos, al poco tiempo le propuse matrimónio, para formar mi propia familia. “.”Despues mi error mi fantasia")
 
     
