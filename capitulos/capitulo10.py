@@ -13,7 +13,7 @@ def mostrar10():
 
     with col3:
         st.audio("audio/fueronlosdiasT.mp3")
-        st.image("imagenes/niñas secundaria.jpeg")
+        st.image("imagenes/ninas secundaria.jpeg")
         #st.write("En ese tiempo  encontré mi lugar sin tener que explicarme… rodeado de risas suaves y complicidades sencillas.Ahí por un momento, la vida fue amable conmigo.")
 
 

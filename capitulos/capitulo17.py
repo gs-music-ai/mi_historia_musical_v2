@@ -14,6 +14,6 @@ def mostrar17():
 
     
     with col3:
-        st.audio("audio/sueñoT.mp3")
+        st.audio("audio/suenoT.mp3")
         #st.write(" el dolor de la perdida fue desgarrador y otra vez le pedi a Dios que por favor me llevara  con el , era mas de lo que podia soportar , mi tío Manuel me hizo reaccionar al decirme ‘tu hijo te espera’ finalmente llegaron dos hermosas princesas que renovaron ilusiones  les  di todo mi amor y entrega , le pido a Dios que les de todo lo que necesiten para ser felices  y las proteja siempre.Despues la debacle del matrimonio ")
         st.image("imagenes/ElyCami3.jpeg", width='stretch')
