@@ -16,7 +16,7 @@ def mostrar19():
     with col3:
         st.audio("audio/viejoT.mp3")
         st.write("No se donde me toque el capitulo final por lo pronto estoy en el bello caribe mexicano con los valencias y les doy las gracias por sus atenciones ")
-        st.image("imagenes/valencias.jpeg", width='stretch')
+        st.image("imagenes/Valencias.jpeg", width='stretch')
 
 
         #st.image("imagenes/SaraSola.jpeg", width='stretch')
