@@ -5,7 +5,7 @@ def mostrar6():
     col1, col2, col3 = st.columns((1,1,1))
 
     with col1:
-        st.image("imagenes/partida_giselle.jpeg")
+        st.image("imagenes/partida_Giselle.jpeg")
 
     with col2:
         st.image("imagenes/partida_giselle2.jpeg")
